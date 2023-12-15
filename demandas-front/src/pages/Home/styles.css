@@ -1,0 +1,48 @@
+ .home-container {
+    width: 100%;
+    max-width: 1180;
+    padding: 0 30px;
+    margin: 32px auto;
+} 
+
+.home-container header {
+    background: rgb(160, 45, 45);
+    display: flex;
+    align-items: center;
+
+}
+
+.corpo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.filtro-lista {
+    margin-right: auto;
+}
+/*
+h1 {
+    color: black;
+}
+
+.corpo {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-lista {
+    display: flex;
+    justify-content: center;
+
+}
+
+.listagem-demandas ul li {
+    background: rgb(255, 255, 255);
+}
+
+.demanda ul {
+    grid-gap: 25px;
+    list-style: none;
+} */
